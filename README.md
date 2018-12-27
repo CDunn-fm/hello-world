@@ -1,2 +1,3 @@
 # hello-world
 Yup, it's hello world.
+I'm not working in software development and should probably know a bit more about github...
